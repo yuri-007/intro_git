@@ -6,4 +6,4 @@ Gitの練習をしていきます。
 ・git status
 ・git diff
 ・git diff HEAD
-<p>git merge</p>
+<p>git mge</p>
