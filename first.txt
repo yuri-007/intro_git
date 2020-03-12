@@ -1,8 +1,9 @@
-Git�̗��K�����Ă����܂��B
-��{�I�ȃ��[�N�t���[���w�т܂��B
-�Egit add
-�Egit commit
-�Egit rm
-�Egit status
-�Egit diff
-�Egit diff HEAD
+Gitの練習をしていきます。
+基本的なワークフローを学びます。
+・git add
+・git commit
+・git rm
+・git status
+・git diff
+・git diff HEAD
+<p>git merge</p>
