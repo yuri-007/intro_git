@@ -17,4 +17,4 @@ Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·B
 Egit diff HEAD
 <p>git mge</p>
 <p>conflict</p>
-
+<p>pull request<'p>
